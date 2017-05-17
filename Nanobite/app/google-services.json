@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "473225196666",
+    "firebase_url": "https://nanobite-tec.firebaseio.com",
+    "project_id": "nanobite-tec",
+    "storage_bucket": "nanobite-tec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473225196666:android:23ff5c2433b213bb",
+        "android_client_info": {
+          "package_name": "com.nanobite.nanobite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473225196666-o75q733p7dojuf2cp9lq57459bu6joou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nanobite.nanobite",
+            "certificate_hash": "7f1b1f2e87ba7f059cd796b3ca0143b4751d97da"
+          }
+        },
+        {
+          "client_id": "473225196666-hmaq2eb9rblucu81gt430tus256mkntc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDprebrxxPQuujd0BPZypW2ZMkSiXA1m4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473225196666-hmaq2eb9rblucu81gt430tus256mkntc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
